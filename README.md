@@ -31,9 +31,12 @@ The project involves:
 2. Country and Team Analysis: Analyzing the performance of countries and teams in different events.
 3. Medal Statistics: Assessing the distribution of medals across sports and time periods.
 
-Tools and Technologies
+#Tools and Technologies
+
 SQL: For querying and manipulating data.
+
 Excel: For creating visualizations such as charts and graphs.
+
 PowerPoint: For presenting the analysis results, including output and charts.
 
 
