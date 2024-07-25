@@ -34,9 +34,7 @@ The project involves:
 #Tools and Technologies
 
 SQL: For querying and manipulating data.
-
 Excel: For creating visualizations such as charts and graphs.
-
 PowerPoint: For presenting the analysis results, including output and charts.
 
 
