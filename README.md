@@ -7,21 +7,21 @@ The project aims to analyze Olympic data to reveal trends, patterns, and insight
 ## Dataset
 The dataset includes the following columns:
 
-ID: Unique identifier for each record
-Name: Name of the athlete
-Sex: Gender of the athlete
-Age: Age of the athlete at the time of the event
-Height: Height of the athlete
-Weight: Weight of the athlete
-Team: Team the athlete represented
-COUNTRY: Country of the athlete
-Games: Type of Olympic Games (e.g., Summer, Winter)
-Year: Year of the Olympic Games
-Season: Season of the Olympic Games (e.g., Summer, Winter)
-City: Host city of the Olympic Games
-Sport: Sport in which the athlete competed
-Event: Specific event within the sport
-Medal: Medal won by the athlete (Gold, Silver, Bronze)
+1. ID: Unique identifier for each record
+2. Name: Name of the athlete
+3. Sex: Gender of the athlete
+4. Age: Age of the athlete at the time of the event
+5. Height: Height of the athlete
+6. Weight: Weight of the athlete
+7. Team: Team the athlete represented
+8. COUNTRY: Country of the athlete
+9. Games: Type of Olympic Games (e.g., Summer, Winter)
+10. Year: Year of the Olympic Games
+11. Season: Season of the Olympic Games (e.g., Summer, Winter)
+12. City: Host city of the Olympic Games
+13. Sport: Sport in which the athlete competed
+14. Event: Specific event within the sport
+15. Medal: Medal won by the athlete (Gold, Silver, Bronze)
 
 
 ## Analysis
