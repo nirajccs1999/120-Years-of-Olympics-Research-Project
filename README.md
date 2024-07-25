@@ -1,7 +1,7 @@
 # 120-Years-of-Olympics-Research-Project
 This project delves into 120 years of Olympic Games data, offering insights into the performance of athletes, teams, and their achievements across various events. The analysis leverages SQL for data querying and Excel for data visualization, with a PowerPoint presentation showcasing the results.
 
-Project Overview
+## Project Overview
 The project aims to analyze Olympic data to reveal trends, patterns, and insights about athlete performances over a century of Games. It includes querying data using SQL and visualizing findings with Excel charts and graphs.
 
 ## Dataset
@@ -24,7 +24,7 @@ Event: Specific event within the sport
 Medal: Medal won by the athlete (Gold, Silver, Bronze)
 
 
-# Analysis
+## Analysis
 The project involves:
 
 1. Athlete Performance Trends: Investigating how athlete performance has changed over the years.
@@ -37,17 +37,17 @@ Excel: For creating visualizations such as charts and graphs.
 PowerPoint: For presenting the analysis results, including output and charts.
 
 
-# Getting Started
+## Getting Started
 
 Clone the repository
     git clone https://github.com/nirajccs1999/120-Years-of-Olympics-Research-Project.git
 
 Explore the dataset and analysis files in the respective folders.
 
-# Contact
+## Contact
 For any questions or further information, please reach out to me at Niraj919953@gmail.com
 
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
